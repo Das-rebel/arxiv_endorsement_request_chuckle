@@ -1,0 +1,47 @@
+Subject: ArXiv Endorsement Request for cs.CL — Audio-First Laughter Detection Paper
+
+Dear [ArXiv Endorser],
+
+I am Subhajit Dey, an independent AI researcher working on autonomous laughter prediction systems. I am seeking an ArXiv endorsement for the cs.CL (Computation and Language) category to submit my paper:
+
+Title: "Robust Generalization in Audio-First Laughter Detection Through WavLM and Prosodic Ensembles"
+
+## Paper Summary
+
+I demonstrate that audio-first laughter detection achieves robust generalization to unseen comedians — a critical deployment scenario that current text-based approaches fail to address. My WavLM-Prosody ensemble achieves F1=0.587 on held-out comedians, 3.9× better than text-only XLM-R (F1=0.152).
+
+Key contributions:
+1. First audio-first laughter detection with validated comedian generalization
+2. Quantified modality gap: Audio degrades only 54% vs text's 81% collapse on held-out evaluation
+3. Statistical significance validation (p < 0.0001 via bootstrap permutation testing)
+4. Production-ready system: Sub-millisecond CPU inference, ~1MB model weights
+
+## Why cs.CL?
+
+This work directly addresses core NLP/CL challenges:
+- Cross-speaker generalization in sequence labeling
+- Multimodal representation learning (audio + text)
+- Robustness under distribution shift
+- Language-agnostic acoustic representation learning
+
+## Verification
+
+My identity is verified through LinkedIn: https://www.linkedin.com/in/subhajitd/
+
+The complete paper draft is available at: https://github.com/Das-rebel/ChuckleNet (see arxiv_paper_v2.md)
+
+## Request
+
+If you are a registered ArXiv endorser for cs.CL and find this work appropriate for the category, I would greatly appreciate your endorsement.
+
+My endorsement code is: (pending — will be provided by ArXiv upon submission)
+
+Alternatively, if you could provide feedback on the paper or suggest improvements, I would be grateful.
+
+Thank you for your time and consideration.
+
+Best regards,
+Subhajit Dey
+Independent AI Researcher
+LinkedIn: https://www.linkedin.com/in/subhajitd/
+GitHub: https://github.com/Das-rebel
