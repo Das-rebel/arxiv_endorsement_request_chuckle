@@ -6,7 +6,7 @@
 **Author**: Subhajit Dey  
 **Date**: June 2026  
 **Status**: Awaiting endorsement  
-**Endorsement Code**: (pending from ArXiv)
+**Endorsement Code**: `EZ9LJG` ✓
 
 **GitHub Repo**: https://github.com/Das-rebel/arxiv_endorsement_request_chuckle
 
@@ -61,7 +61,7 @@ This work builds on established research:
 
 | Name | Affiliation | Contact | Publications | Outreach Status |
 |------|-------------|---------|--------------|-----------------|
-| **Brian Ravenet** | Université Paris-Saclay | brian.ravenet@universite-paris-saclay.fr | Multiple papers on laughter/humor detection | 🔍 Researching |
+| **Brian Ravenet** | Université Paris-Saclay | brian.ravenet@universite-paris-saclay.fr | Multiple papers on laughter/humor detection | ✅ READY TO CONTACT |
 | **Valentin Barriere** | Universidad de Chile / CENIA | [valbarriere.github.io](https://valbarriere.github.io) | StandUp4AI (EMNLP 2025), StandUp humor | 🔍 Researching |
 | **Sofia Callejas** | ISIR UPMC France | [isir.upmc.fr/personnel/callejas](https://www.isir.upmc.fr/personnel/callejas/?lang=en) | MultiLinguahah (cs.CL 2026) | 🔍 Researching |
 | **Eyal Hanania** | TBD | TBD | MTLLFM (CVPR 2026W) | 🔍 Researching |

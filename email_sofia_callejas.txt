@@ -1,0 +1,21 @@
+Subject: ArXiv Endorsement Request for cs.CL — Audio-First Laughter Detection
+
+Dear Dr. Callejas,
+
+I am Subhajit Dey, an independent AI researcher. Your MultiLinguahah paper (arXiv:2605.06309) has been influential in my work on audio-first laughter detection.
+
+I am seeking an ArXiv endorsement for cs.CL. My paper:
+
+Title: "Robust Generalization in Audio-First Laughter Detection Through WavLM and Prosodic Ensembles"
+
+Your unsupervised multilingual approach inspired my finding that audio captures universal paralinguistic cues that transfer across performers and languages. My ensemble achieves F1=0.587 on held-out comedians — 3.9× better than text-only.
+
+Endorsement Code: EZ9LJG
+
+Paper: https://github.com/Das-rebel/arxiv_endorsement_request_chuckle
+LinkedIn: https://www.linkedin.com/in/subhajitd/
+
+If you are a registered ArXiv endorser for cs.CL, I would be grateful for your endorsement.
+
+Thank you,
+Subhajit Dey
