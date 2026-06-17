@@ -8,6 +8,8 @@
 **Status**: Awaiting endorsement  
 **Endorsement Code**: (pending from ArXiv)
 
+**GitHub Repo**: https://github.com/Das-rebel/arxiv_endorsement_request_chuckle
+
 ---
 
 ## Gate 1: Verified LinkedIn Profile ✓
@@ -45,8 +47,8 @@ This work builds on established research:
 | Paper | Venue | Relevance |
 |-------|-------|-----------|
 | MultiLinguahah (Callejas et al., 2026) | arXiv:2605.06309 | Unsupervised multilingual laughter segmentation |
-| StandUp4AI (Barriere et al., 2025) | ACL 2025 | Multilingual humor dataset |
-| MTLLFM (Hanania et al., 2026) | CVPR 2026 | Temporal laughter localization |
+| StandUp4AI (Barriere et al., 2025) | ACL/EMNLP 2025 | Multilingual humor dataset |
+| MTLLFM (Hanania et al., 2026) | CVPR 2026 Workshop | Temporal laughter localization |
 | UR-FUNNY (Hasan et al., 2019) | EMNLP 2019 | Multimodal humor dataset |
 | Gillick et al., 2019 | Interspeech 2019 | Learning to detect laughter |
 | Bertero & Fung, 2016 | LREC 2016 | Audio/language features for humor |
@@ -55,14 +57,28 @@ This work builds on established research:
 
 ## Outreach Targets
 
-Potential endorsers (researchers with cs.CL publications on laughter/affective computing):
+### Primary Targets (Direct Connection to Laughter Detection)
 
-| Name | Affiliation | Publications | Status |
-|------|-------------|--------------|--------|
-| Valentin Barriere | University of Chile | StandUp4AI (ACL 2025) | Pending |
-| Sofia Callejas | CNRS | MultiLinguahah (cs.CL 2026) | Pending |
-| Brian Ravenet | French Research Institute | Multiple laughter papers | Pending |
-| Eyal Hanania | TBD | MTLLFM (CVPR 2026W) | Pending |
+| Name | Affiliation | Contact | Publications | Outreach Status |
+|------|-------------|---------|--------------|-----------------|
+| **Brian Ravenet** | Université Paris-Saclay | brian.ravenet@universite-paris-saclay.fr | Multiple papers on laughter/humor detection | 🔍 Researching |
+| **Valentin Barriere** | Universidad de Chile / CENIA | [valbarriere.github.io](https://valbarriere.github.io) | StandUp4AI (EMNLP 2025), StandUp humor | 🔍 Researching |
+| **Sofia Callejas** | ISIR UPMC France | [isir.upmc.fr/personnel/callejas](https://www.isir.upmc.fr/personnel/callejas/?lang=en) | MultiLinguahah (cs.CL 2026) | 🔍 Researching |
+| **Eyal Hanania** | TBD | TBD | MTLLFM (CVPR 2026W) | 🔍 Researching |
+
+### Secondary Targets (Affective Computing / Multimodal ML)
+
+Other cs.CL researchers working on audio/affective computing (to be researched).
+
+---
+
+## How to Help
+
+If you are a registered **ArXiv endorser for cs.CL** and find this work appropriate, you can:
+
+1. **Endorse via ArXiv**: When I submit to arxiv.org, an endorsement code will be generated
+2. **Provide feedback**: Review the paper draft and suggest improvements
+3. **Connect**: Introduce me to other researchers who might endorse
 
 ---
 
@@ -71,7 +87,7 @@ Potential endorsers (researchers with cs.CL publications on laughter/affective c
 ```
 ├── README.md              # This file
 ├── paper_pdf.pdf          # Complete paper draft
-├── endorsement_request.txt # Outreach message template
+├── endorsement_request.txt # Generic outreach message
 └── recipients_list.csv    # Tracking outreach efforts
 ```
 
