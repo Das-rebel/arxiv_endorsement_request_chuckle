@@ -1,4 +1,4 @@
-Subject: ArXiv Endorsement Request for cs.CL — Audio-First Laughter Detection Paper
+Subject: ArXiv Endorsement Request for cs.CL — Audio-First Laughter Detection
 
 Dear [ArXiv Endorser],
 
@@ -16,7 +16,7 @@ Key contributions:
 3. Statistical significance validation (p < 0.0001 via bootstrap permutation testing)
 4. Production-ready system: Sub-millisecond CPU inference, ~1MB model weights
 
-## Why cs.CL?
+## Relevance to cs.CL
 
 This work directly addresses core NLP/CL challenges:
 - Cross-speaker generalization in sequence labeling
@@ -28,15 +28,19 @@ This work directly addresses core NLP/CL challenges:
 
 My identity is verified through LinkedIn: https://www.linkedin.com/in/subhajitd/
 
-The complete paper draft is available at: https://github.com/Das-rebel/ChuckleNet (see arxiv_paper_v2.md)
+The complete paper draft is available at: https://github.com/Das-rebel/arxiv_endorsement_request_chuckle
+
+## Connection to Your Work
+
+Your work on StandUp4AI and MultiLinguahah has been influential in my research. I build directly on your contributions:
+- MultiLinguahah (Callejas et al., 2026): Your unsupervised multilingual acoustic laughter segmentation inspired my approach to language-agnostic detection.
+- StandUp4AI (Barriere et al., 2025): Your dataset provided a foundation for evaluating generalization across performers.
 
 ## Request
 
 If you are a registered ArXiv endorser for cs.CL and find this work appropriate for the category, I would greatly appreciate your endorsement.
 
 My endorsement code is: (pending — will be provided by ArXiv upon submission)
-
-Alternatively, if you could provide feedback on the paper or suggest improvements, I would be grateful.
 
 Thank you for your time and consideration.
 
