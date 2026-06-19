@@ -2,20 +2,26 @@ Subject: ArXiv Endorsement Request for cs.CL — Audio-First Laughter Detection
 
 Dear Dr. Barriere,
 
-I am Subhajit Dey, an independent AI researcher. Your work on StandUp4AI (EMNLP 2025) has been a foundation for my research on laughter detection generalization.
+I am Subhajit Das, an independent AI researcher. Your work on acoustic humor detection has been influential in my research on audio-first laughter detection.
 
-I am seeking an ArXiv endorsement for cs.CL. My paper:
+I am seeking an ArXiv endorsement for the cs.CL (Computation and Language) category. My paper:
 
 Title: "Robust Generalization in Audio-First Laughter Detection Through WavLM and Prosodic Ensembles"
 
-I build on your StandUp4AI dataset and demonstrate that audio-first design achieves robust generalization to unseen comedians. My WavLM-Prosody ensemble achieves F1=0.587 on held-out comedians — 3.9× better than text-only approaches.
+My key contribution: I demonstrate that audio-first laughter detection achieves robust generalization to unseen comedians. My WavLM-Prosody ensemble achieves F1=0.587 on held-out comedians, 3.9× better than text-only XLM-R (F1=0.152).
 
 Endorsement Code: EZ9LJG
 
-Paper: https://github.com/Das-rebel/arxiv_endorsement_request_chuckle
+The complete paper draft is available at: https://github.com/Das-rebel/arxiv_endorsement_request_chuckle
+
+My identity is verified through LinkedIn: https://www.linkedin.com/in/subhajitd/
+
+If you are a registered ArXiv endorser for cs.CL and find this work appropriate for the category, I would greatly appreciate your endorsement.
+
+Thank you for your time and consideration.
+
+Best regards,
+Subhajit Das
+Independent AI Researcher
 LinkedIn: https://www.linkedin.com/in/subhajitd/
-
-If you are a registered ArXiv endorser for cs.CL, I would be grateful for your endorsement.
-
-Thank you,
-Subhajit Dey
+GitHub: https://github.com/Das-rebel
